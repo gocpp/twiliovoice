@@ -1,4 +1,4 @@
 <Response>
-    <Say voice="alice">支付出现异常，请及时处理。</Say>
+    <Say voice="alice">There is a problem with the payment, please deal with it.</Say>
     <!-- <Play>http://demo.twilio.com/docs/classic.mp3</Play> -->
 </Response>
